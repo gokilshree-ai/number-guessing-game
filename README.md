@@ -1,2 +1,4 @@
-# number-guessing-game
-Simple Python mini project for beginners
+# Number Guessing Game
+
+A simple Python game where the user guesses a random number.
+
